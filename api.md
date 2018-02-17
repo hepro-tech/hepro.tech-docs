@@ -67,4 +67,4 @@ GET /status/
 POST /events/
 ```
 
-This endpoint accepts an
+This endpoint expects an event object in the body as defined in the events section.
